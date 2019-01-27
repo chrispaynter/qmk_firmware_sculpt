@@ -18,6 +18,7 @@ COMMAND_ENABLE = yes        # Commands for debug and configuration
 SLEEP_LED_ENABLE = yes      # Breathing sleep LED during USB suspend
 NKRO_ENABLE = no            # USB Nkey Rollover
 BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality on B7 by default
+RGBLIGHT_ENABLE = yes 
 MIDI_ENABLE = no            # MIDI controls
 UNICODE_ENABLE = no         # Unicode
 BLUETOOTH_ENABLE = no       # Enable Bluetooth with the Adafruit EZ-Key HID
